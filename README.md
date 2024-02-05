@@ -3,9 +3,9 @@ My website portfolio
 
 ## Screenshots:
 ### Computer View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio.PNG)
+![alt text](https://github.com/Ashdixit382/Portfolio-Website/blob/main/Portfolio.PNG)
 
 ### Mobile View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG)
+![alt text](https://github.com/Ashdixit382/Portfolio-Website/blob/main/Portfolio_mobile.PNG)
 
 -->
