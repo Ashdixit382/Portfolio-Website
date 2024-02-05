@@ -1,4 +1,4 @@
-<!-- # Portfolio
+# Portfolio
 My website portfolio
 
 ## Screenshots:
@@ -8,4 +8,4 @@ My website portfolio
 ### Mobile View
 ![alt text](https://github.com/Ashdixit382/Portfolio-Website/blob/main/Portfolio_mobile.PNG)
 
--->
+
