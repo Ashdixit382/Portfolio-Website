@@ -143,7 +143,7 @@
           <h2>Let me introduce myself.</h2>
 
           <div class="intro-info">
-            <img src="images/profile-pic.jpg" alt="Ali Solanki Picture" />
+            <!-- <img src="images/profile-pic.jpg" alt="Ashish Dixit Picture" /> -->
 
             <p class="lead">
               "Lad with a <font color="#FF0077">million</font> dreams."
@@ -422,21 +422,5 @@
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
     <script src=" https://smtpjs.com/v3/smtp.js"></script>
-    <script>
-      function sendEmail() {
-        Email.send({
-          Host: "smtp.gmail.com",
-          Username: "johndixit575@gmail.com",
-          Password: "ashish21@Ad",
-          To: "johndixit575@gmail.com",
-          From: document.getElementById("email").value,
-          Subject: "New Contact Form Enquiry",
-          Body: "Name :" + document.getElementById("name").value
-					+ "<br> Email : " + document.getElementById("email").value
-					+ "<br> Message : " + document.getElementById("message").value
-					
-        }).then((message) => alert("Message Sent Successfully"));
-      }
-    </script>
   </body>
 </html>
